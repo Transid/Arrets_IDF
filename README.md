@@ -1,4 +1,7 @@
 # Arrets_IDF
-Ce NoteBook explore le fichiers https://opendata.stif.info/explore/dataset/referentiel-arret-tc-idf/?tab=metas
-Et présente les arrêts sur une carte.
-Plus d'informations : http://transid.blogspot.com/2015/11/gares-stations-de-metro-et-arrets-de.html
+Ces NoteBook explorent les données ouvertes par le STIF : 
+    données d'offre : 
+      https://opendata.stif.info/explore/dataset/referentiel-arret-tc-idf/?tab=metas
+      notamment les arrêts présentés sur une carte, plus d'informations sur  
+      http://transid.blogspot.com/2015/11/gares-stations-de-metro-et-arrets-de.html
+  Mais aussi les données de validation
